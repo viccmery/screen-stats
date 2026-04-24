@@ -1,0 +1,322 @@
+,condition,comment_clean,n
+2,19-12-gal4,not enough pupae,49
+0,19-12-gal4,camera issue,5
+4,19-12-gal4,pupae rec missing,5
+6,19-12-gal4,ssh issue,4
+1,19-12-gal4,general pi issue,3
+3,19-12-gal4,pupae rec duplicate,1
+5,19-12-gal4,script issue,1
+7,19-12-gal4,too many pupae,1
+8,26259,not enough pupae,22
+9,26259,pupae rec missing,2
+12,26259,video issue,2
+10,26259,ssh issue,1
+11,26259,too many pupae,1
+14,45873,not enough pupae,5
+18,45873,too many pupae,3
+15,45873,pupae rec missing,2
+13,45873,camera issue,1
+16,45873,script issue,1
+17,45873,ssh issue,1
+19,45873,video issue,1
+22,48877,pupae rec missing,4
+21,48877,not enough pupae,3
+20,48877,general pi issue,1
+23,48877,script issue,1
+24,48877,ssh issue,1
+25,48877,too many pupae,1
+28,49766,not enough pupae,14
+30,49766,pupae rec missing,10
+26,49766,camera issue,4
+32,49766,video issue,3
+27,49766,general pi issue,1
+29,49766,pupae rec duplicate,1
+31,49766,script issue,1
+34,49826,not enough pupae,41
+35,49826,pupae rec missing,8
+33,49826,camera issue,5
+36,49826,script issue,3
+37,49826,ssh issue,1
+41,49828,not enough pupae,15
+38,49828,camera issue,5
+45,49828,ssh issue,5
+46,49828,too many pupae,5
+44,49828,script issue,2
+39,49828,general pi issue,1
+40,49828,general pupae rec error,1
+42,49828,pupae rec duplicate,1
+43,49828,pupae rec missing,1
+47,49828,video issue,1
+50,50377,not enough pupae,9
+51,50377,pupae rec missing,6
+48,50377,camera issue,3
+52,50377,script issue,3
+54,50377,video issue,3
+49,50377,general pi issue,1
+53,50377,too many pupae,1
+56,57618,not enough pupae,5
+55,57618,camera issue,3
+57,57618,script issue,1
+58,57618,ssh issue,1
+59,57618,video issue,1
+62,602023,not enough pupae,4
+61,602023,general pi issue,3
+60,602023,camera issue,2
+64,602023,ssh issue,2
+63,602023,pupae rec missing,1
+65,602023,video issue,1
+68,603766,not enough pupae,5
+66,603766,camera issue,3
+70,603766,ssh issue,3
+71,603766,too many pupae,3
+69,603766,script issue,2
+67,603766,general pi issue,1
+74,73947,not enough pupae,12
+72,73947,camera issue,3
+76,73947,script issue,3
+78,73947,too many pupae,3
+75,73947,pupae rec missing,2
+77,73947,ssh issue,2
+73,73947,general pi issue,1
+79,73947,video issue,1
+81,854,not enough pupae,16
+82,854,pupae rec missing,3
+80,854,camera issue,2
+83,854,ssh issue,2
+84,854,video issue,1
+87,8769,not enough pupae,7
+85,8769,camera issue,4
+88,8769,pupae rec missing,3
+86,8769,connection issue,1
+89,8769,ssh issue,1
+90,8769,too many pupae,1
+92,empty-gal4,not enough pupae,27
+91,empty-gal4,camera issue,7
+93,empty-gal4,pupae rec missing,5
+95,empty-gal4,ssh issue,4
+94,empty-gal4,script issue,3
+97,empty-gal4,video issue,3
+96,empty-gal4,too many pupae,2
+98,mb196c,not enough pupae,4
+100,mb196c,ssh issue,2
+101,mb196c,too many pupae,2
+99,mb196c,script issue,1
+104,split-control,not enough pupae,22
+102,split-control,camera issue,6
+105,split-control,pupae rec missing,5
+108,split-control,too many pupae,4
+107,split-control,ssh issue,3
+106,split-control,script issue,2
+103,split-control,general pi issue,1
+109,split-control,video issue,1
+110,ss00674,camera issue,3
+113,ss00674,pupae rec missing,3
+112,ss00674,not enough pupae,2
+116,ss00674,too many pupae,2
+111,ss00674,general pi issue,1
+114,ss00674,script issue,1
+115,ss00674,ssh issue,1
+118,ss00721,pupae rec missing,3
+119,ss00721,ssh issue,2
+117,ss00721,camera issue,1
+120,ss00721,video issue,1
+123,ss00739,not enough pupae,14
+125,ss00739,pupae rec missing,6
+124,ss00739,pupae rec duplicate,3
+121,ss00739,camera issue,1
+122,ss00739,connection issue,1
+126,ss00739,video issue,1
+128,ss00740,not enough pupae,7
+127,ss00740,camera issue,6
+131,ss00740,ssh issue,4
+132,ss00740,too many pupae,3
+129,ss00740,pupae rec missing,2
+130,ss00740,script issue,1
+133,ss00740,video issue,1
+139,ss00878,video issue,4
+136,ss00878,pupae rec missing,3
+134,ss00878,camera issue,2
+135,ss00878,not enough pupae,1
+137,ss00878,ssh issue,1
+138,ss00878,too many pupae,1
+140,ss00886,camera issue,4
+142,ss00886,ssh issue,3
+141,ss00886,pupae rec missing,2
+143,ss00886,too many pupae,2
+145,ss00888,not enough pupae,8
+144,ss00888,camera issue,3
+146,ss00888,video issue,2
+149,ss00911,not enough pupae,5
+152,ss00911,too many pupae,5
+147,ss00911,camera issue,3
+151,ss00911,ssh issue,2
+148,ss00911,general pi issue,1
+150,ss00911,pupae rec missing,1
+153,ss00911,video issue,1
+155,ss00918,not enough pupae,10
+154,ss00918,camera issue,4
+156,ss00918,pupae rec missing,4
+157,ss00918,script issue,1
+158,ss00918,too many pupae,1
+159,ss00918,video issue,1
+161,ss01378,not enough pupae,10
+162,ss01378,pupae rec missing,3
+163,ss01378,script issue,3
+166,ss01378,video issue,2
+160,ss01378,camera issue,1
+164,ss01378,ssh issue,1
+165,ss01378,too many pupae,1
+169,ss01401,not enough pupae,4
+167,ss01401,camera issue,3
+172,ss01401,ssh issue,3
+168,ss01401,general pi issue,2
+170,ss01401,pupae rec missing,1
+171,ss01401,script issue,1
+173,ss01401,too many pupae,1
+177,ss01632,not enough pupae,10
+174,ss01632,camera issue,2
+175,ss01632,connection issue,1
+176,ss01632,general pupae rec error,1
+178,ss01632,script issue,1
+179,ss01632,too many pupae,1
+180,ss01632,video issue,1
+182,ss01645,not enough pupae,4
+181,ss01645,camera issue,2
+185,ss01645,ssh issue,2
+183,ss01645,pupae rec missing,1
+184,ss01645,script issue,1
+186,ss01645,too many pupae,1
+187,ss01645,video issue,1
+190,ss01732,not enough pupae,12
+191,ss01732,pupae rec missing,3
+194,ss01732,video issue,2
+188,ss01732,camera issue,1
+189,ss01732,connection issue,1
+192,ss01732,script issue,1
+193,ss01732,ssh issue,1
+197,ss01762,not enough pupae,13
+195,ss01762,camera issue,1
+196,ss01762,connection issue,1
+198,ss01762,pupae rec missing,1
+199,ss01762,ssh issue,1
+201,ss01943,not enough pupae,4
+200,ss01943,camera issue,1
+202,ss01943,pupae rec missing,1
+203,ss01943,ssh issue,1
+204,ss01943,too many pupae,1
+210,ss01978,video issue,5
+206,ss01978,not enough pupae,4
+207,ss01978,pupae rec missing,2
+205,ss01978,camera issue,1
+208,ss01978,script issue,1
+209,ss01978,too many pupae,1
+212,ss01984,pupae rec missing,4
+214,ss01984,video issue,2
+211,ss01984,camera issue,1
+213,ss01984,script issue,1
+216,ss01989,not enough pupae,6
+215,ss01989,camera issue,3
+217,ss01989,pupae rec duplicate,1
+218,ss01989,pupae rec missing,1
+219,ss01989,video issue,1
+222,ss03731,not enough pupae,5
+223,ss03731,script issue,2
+220,ss03731,camera issue,1
+221,ss03731,general pi issue,1
+224,ss03731,ssh issue,1
+225,ss03731,too many pupae,1
+232,ss03767,too many pupae,3
+226,ss03767,camera issue,2
+228,ss03767,not enough pupae,2
+231,ss03767,ssh issue,2
+233,ss03767,video issue,2
+227,ss03767,general pi issue,1
+229,ss03767,pupae rec missing,1
+230,ss03767,script issue,1
+235,ss04047,not enough pupae,10
+234,ss04047,camera issue,1
+236,ss04047,pupae rec missing,1
+237,ss04047,too many pupae,1
+241,ss04068,not enough pupae,14
+244,ss04068,ssh issue,3
+238,ss04068,camera issue,2
+242,ss04068,pupae rec missing,2
+239,ss04068,connection issue,1
+240,ss04068,general pi issue,1
+243,ss04068,script issue,1
+245,ss04068,too many pupae,1
+246,ss04068,video issue,1
+249,ss04230,not enough pupae,4
+247,ss04230,camera issue,3
+248,ss04230,general pi issue,2
+251,ss04230,script issue,2
+253,ss04230,too many pupae,2
+250,ss04230,pupae rec missing,1
+252,ss04230,ssh issue,1
+256,ss04330,not enough pupae,9
+257,ss04330,pupae rec missing,4
+255,ss04330,general pi issue,2
+258,ss04330,script issue,2
+254,ss04330,camera issue,1
+261,ss04497,not enough pupae,9
+259,ss04497,camera issue,2
+260,ss04497,general pupae rec error,1
+262,ss04497,pupae rec missing,1
+263,ss04497,script issue,1
+264,ss04497,too many pupae,1
+266,ss21785,not enough pupae,6
+265,ss21785,camera issue,4
+267,ss21785,pupae rec missing,2
+268,ss21785,script issue,2
+269,ss21785,too many pupae,1
+271,ss25232,not enough pupae,8
+270,ss25232,camera issue,4
+273,ss25232,ssh issue,3
+272,ss25232,pupae rec missing,1
+274,ss25232,too many pupae,1
+275,ss25232,video issue,1
+278,ss25725,not enough pupae,4
+276,ss25725,camera issue,1
+277,ss25725,general pi issue,1
+281,ss25755,not enough pupae,6
+279,ss25755,camera issue,5
+282,ss25755,pupae rec missing,2
+280,ss25755,connection issue,1
+283,ss25755,ssh issue,1
+285,ss27197,not enough pupae,15
+286,ss27197,pupae rec missing,2
+287,ss27197,script issue,2
+288,ss27197,ssh issue,2
+284,ss27197,camera issue,1
+289,ss27197,video issue,1
+291,ss38410,not enough pupae,10
+290,ss38410,camera issue,3
+292,ss38410,pupae rec missing,1
+293,ss38410,ssh issue,1
+294,ss38410,too many pupae,1
+295,ss38410,video issue,1
+296,ss42527,not enough pupae,6
+297,ss42527,pupae rec missing,1
+298,ss42527,ssh issue,1
+299,ss42527,too many pupae,1
+300,ss52506,not enough pupae,10
+301,ss52506,pupae rec missing,3
+304,ss52506,too many pupae,2
+302,ss52506,script issue,1
+303,ss52506,ssh issue,1
+306,ss52511,not enough pupae,9
+305,ss52511,camera issue,2
+307,ss52511,pupae rec missing,2
+308,ss52511,video issue,1
+311,ss53257,ssh issue,2
+309,ss53257,camera issue,1
+310,ss53257,connection issue,1
+312,ss53257,too many pupae,1
+313,ss53257,video issue,1
+315,ss55086,not enough pupae,5
+317,ss55086,pupae rec missing,4
+320,ss55086,too many pupae,3
+314,ss55086,camera issue,1
+316,ss55086,pupae rec duplicate,1
+318,ss55086,script issue,1
+319,ss55086,ssh issue,1

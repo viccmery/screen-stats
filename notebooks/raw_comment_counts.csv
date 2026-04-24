@@ -1,0 +1,263 @@
+,comment,n,comment_clean
+0,not enough pupae,400,not enough pupae
+1,no pupae rec,59,pupae rec missing
+2,camera issue,42,camera issue
+3,pupae count likely failed,29,pupae rec missing
+4,no pupae,25,not enough pupae
+5,too many pupae,23,too many pupae
+6,ssh timeout,22,ssh issue
+7,manually added but data lost - not enough pupae,20,pupae rec missing
+8,Cannot start recordings due to rig_num error,19,script issue
+9,Too many,18,too many pupae
+10,camera issue; not enough pupae,15,camera issue
+11,"Too many, not counted",13,too many pupae
+12,camera,12,camera issue
+13,"Too many, not recorded",12,too many pupae
+14,not enough pupae; Can't tell if it acquired image - script had an error,11,script issue
+15,ssh issue,11,ssh issue
+16,ssh timeout; not enough pupae,10,ssh issue
+17,too few pupae,8,not enough pupae
+18,camera timeout,8,camera issue
+19,ssh connection,7,ssh issue
+20,"Unsure if data went through, as glitch on script; not enough pupae",6,script issue
+21,camera; not enough pupae,6,camera issue
+22,not enough so added manually,5,not enough pupae
+23,Leave more eggs than expected - seems like not very viable; not enough pupae,5,not enough pupae
+24,"Unsure if data went through, as glitch on script",5,script issue
+25,"<100, can't count strong phenotype",5,not enough pupae
+26,Leave more eggs than expected - seems like not very viable; no pupae,5,not enough pupae
+27,started late because of camera issue; no pupae rec,4,camera issue
+28,only 24 images,3,video issue
+29,Leave more eggs than expected - seems like not very viable; could not find pupae rec,3,not enough pupae
+30,camera issue.,3,camera issue
+31,not enough pupae; Cannot start recordings due to rig_num error,3,script issue
+32,connection issue,3,connection issue
+33,started late pi issues; not enough pupae,2,general pi issue
+34,"Too many, not counted; camera issue",2,too many pupae
+35,memory issue,2,general pi issue
+36,"started late, camera timeout; no pupae rec",2,camera issue
+37,no pupae count,2,pupae rec missing
+38,too many,2,too many pupae
+39,camera; no pupae rec,2,pupae rec missing
+40,ssh timeout; too many pupae,2,ssh issue
+41,camera timeout; not enough pupae,2,camera issue
+42,cannot find pupae recs,2,pupae rec missing
+43,"started late, camera issue",2,camera issue
+44,connection,2,connection issue
+45,only 4 images,2,video issue
+46,only 3 images,2,video issue
+47,no data folder created,2,general pi issue
+48,pupae rec missing,2,pupae rec missing
+49,started late; not enough pupae,2,not enough pupae
+50,ssh connection; not enough pupae,2,ssh issue
+51,not enough pupae; permission issue,2,general pi issue
+52,too few,2,not enough pupae
+53,camera issue; too many pupae,2,camera issue
+54,"not enough pupae; Unsure if data went through, as glitch on script",2,not enough pupae
+55,Camera issue,2,camera issue
+56,could not find pupae rec,2,pupae rec missing
+57,Can't tell if it acquired image - script had an error; not enough pupae,2,script issue
+58,not enough pupaeLeave more eggs than expected - seems like not very viable,1,not enough pupae
+59,ssh issue; not enough pupae,1,ssh issue
+60,"many eggs, have not removed; not enough pupae",1,too many pupae
+61,too many not recorded,1,too many pupae
+62,only 1 image,1,video issue
+63,camera. also no images?,1,camera issue
+64,started late because of camera issues; too many pupae,1,camera issue
+65,"started late, memory issue; too many not counted",1,general pi issue
+66,started late; 576 images only,1,video issue
+67,517 images only,1,video issue
+68,started late; 314 images only ; not enough pupae,1,video issue
+69,pupae rec data missing?,1,pupae rec missing
+70,only 781 images,1,video issue
+71,only 18 images; not enough pupae,1,video issue
+72,"changed pi as camera timeout; Too many, not recorded",1,camera issue
+73,only 1416 images,1,video issue
+74,"started late, pi issues; not enough pupae",1,general pi issue
+75,ssh issue. not enough pupae,1,ssh issue
+76,"many eggs, have not removed; No images?",1,too many pupae
+77,"ssh issue, could not get into pi; not enough pupae",1,ssh issue
+78,"started late, camera issue; too many not counted",1,camera issue
+79,"started late because had to change pi, ssh timeout",1,general pi issue
+80,"started late because of ssh issue; Too many, not recorded",1,ssh issue
+81,started late because of camera issue,1,camera issue
+82,only 1720 images,1,video issue
+83,no pupae recs,1,pupae rec missing
+84,only 447 images,1,video issue
+85,camera issue; check pupae count issues,1,camera issue
+86,started late because of pi issue; not enough pupae,1,general pi issue
+87,started late because of camera issues,1,camera issue
+88,"ssh issue; Too many, not recorded",1,ssh issue
+89,Too many no counted,1,too many pupae
+90,started late because of camera issue. only 152 images,1,camera issue
+91,not enough pupae. Also only 1689 images,1,not enough pupae
+92,"camera timeout, but check folder to see if it worked; not enough pupae",1,camera issue
+93,no pupae; top of the food looks strange (pink-ish),1,not enough pupae
+94,started late: only 832 images,1,video issue
+95,only 1629 images,1,video issue
+96,camera timeout ; not enough pupae,1,camera issue
+97,started late: camera timeout,1,camera issue
+98,script issue,1,script issue
+99,memory issue; no pupae,1,general pi issue
+100,"too many, not counted; started late, memory issue",1,too many pupae
+101,duplicated count,1,pupae rec duplicate
+102,"started late, camera issue; no pupae rec",1,camera issue
+103,"started late, camera issue; not enough pupae",1,camera issue
+104,only 1314 images; too few,1,video issue
+105,"started late, camera timeout; not enough pupae",1,camera issue
+106,not enough pupae; changed pi because of ssh timeout,1,not enough pupae
+107,"started late, memory issue",1,general pi issue
+108,camera; too many not counted,1,camera issue
+109,not enough pupae; started late because of pi issues,1,not enough pupae
+110,started late because of camera issue; not enough pupae,1,camera issue
+111,potential camera issue,1,camera issue
+112,started late because of pi issues; not enough pupae,1,general pi issue
+113,note duplicate - not enough pupae?,1,pupae rec duplicate
+114,note issue with pupae count number,1,pupae rec duplicate
+115,not enough pupae; can't tell if it acquired image - script had an error,1,not enough pupae
+116,ssh connection; too many pupae,1,ssh issue
+117,"started late, changed pi because of camera issue; not enough pupae",1,camera issue
+118,pi issue,1,general pi issue
+119,failed because of camera issue,1,camera issue
+120,changed pi because of ssh timeout; not enough pupae,1,ssh issue
+121,potential camera issue; not enough pupae,1,camera issue
+122,camera; pupae rec missing,1,camera issue
+123,script failed,1,script issue
+124,camera issue then ssh timeout,1,ssh issue
+125,timed out,1,general pi issue
+126,"started late;Too many, not counted",1,too many pupae
+127,started late because of ssh timeout,1,ssh issue
+128,"ssh timeout;Not counted, too many",1,ssh issue
+129,"ssh timeout; not counted, too many",1,ssh issue
+130,"not counted, too many",1,too many pupae
+131,camera issue; typo on pupae counter so manually added,1,camera issue
+132,not enoguh pupae,1,not enough pupae
+133,not enough pupae; ssh timeout,1,ssh issue
+134,not enough pupae; typo on vial - said 99766,1,not enough pupae
+135,"Unsure if data went through, as glitch on script; no pupae",1,script issue
+136,not enough pupae; connection,1,connection issue
+137,"started late, not enough pupae",1,not enough pupae
+138,"not enough pupae; typo on pupae count - ss00811 instead. Unsure if data went through, as glitch on script",1,not enough pupae
+139,"pupae counts does not specifiy which 49828 - selected by elimination. Unsure if data went through, as glitch on script",1,pupae rec duplicate
+140,note duplicate; Cannot start recordings due to rig_num error,1,script issue
+141,ssh connection issue.,1,ssh issue
+142,"started late, camera timeout",1,camera issue
+143,pupae count failed,1,pupae rec missing
+144,when removing vial it had a fly inside; no pupae,1,not enough pupae
+145,Leave more eggs than expected - seems like not very viable - not enough pupae,1,not enough pupae
+146,"incomplete dataset, 1374 images",1,video issue
+147,"incomplete dataset, 34 images",1,video issue
+148,not enough pupae; pupae right by the food and dead on top of the holes too,1,not enough pupae
+149,not enough pupae; flies fallen into the holes in the food,1,not enough pupae
+150,Leave more eggs than expected - seems like not very viable. Only 6 images,1,video issue
+151,"ssh timeout, tried in two different plug cameras",1,ssh issue
+152,"ssh timeout, tried on two different pis",1,ssh issue
+153,started late because of pi issues; no pupae,1,general pi issue
+154,Camera issue; incomplete dataset: 1374 imgs. Leave more eggs than expected - seems like not very viable; lvery elaborate digging and larvae horizontal right at the bottom of the vial at time of pupae rec,1,camera issue
+155,"incomplete dataset, 1 image; not enough pupae despite elaborate digging pattern",1,video issue
+156,Camera issue; not enough pupae and flies found inside the food,1,camera issue
+157,"not enough pupae; flies display erratic ""jumping""",1,not enough pupae
+158,"incomplete folder, with only 1 image",1,video issue
+159,ssh timeout;,1,ssh issue
+160,script issue?; this vial had three flies when removing,1,script issue
+161,Leave more eggs than expected - seems like not very viable; many quite large larva (considering smaller than usual pupae on vial) at the bottom of the vial. Manually added pupae but recording found in RPi,1,not enough pupae
+162,"not enough pupae but cool digging pattern, jumpy flies, see RPi folder",1,not enough pupae
+163,"this vial had 1 one fly when removing. not enough pupae, digging all the way round the vial and jumpin flies. See RPi folder",1,not enough pupae
+164,"incomplete dataset, 709 images only; not enough pupae",1,video issue
+165,not enough pupae; erratic jumping flies and interesting digging pattern - see recording in RPi,1,not enough pupae
+166,Leave more eggs than expected - seems like not very viable; not enough pupae and many dead in the middle of the vial,1,not enough pupae
+167,Leave more eggs than expected - seems like not very viable,1,not enough pupae
+168,late because of pi issues,1,general pi issue
+169,Leave more eggs than expected - seems like not very viable. Late because of pi issues; not enough pupae,1,not enough pupae
+170,Leave more eggs than expected - seems like not very viable; not enough pupae but many large larvae in the food - see RPi folder,1,not enough pupae
+171,not enough pupae but interesting digging pattern - see RPi folder,1,not enough pupae
+172,"incomplete dataset, 478 images",1,video issue
+173,Leave more eggs than expected - seems like not very viable; not pupae recs,1,pupae rec missing
+174,camera issue/note dup and not enough pupae?,1,camera issue
+175,incomplete dataset - 65 images,1,video issue
+176,incomplete dataset - 1455 images,1,video issue
+177,incomplete dataset - 199 images; too many pupae,1,video issue
+178,incomplete dataset - 21 images,1,video issue
+179,incomplete dataset - 41 images,1,video issue
+180,incomplete dataset - 5 images; too many pupae,1,video issue
+181,"connection timeout, manually marked as having too many pupae",1,connection issue
+182,incomplete dataset - 351 images,1,video issue
+183,"camera issue; <100, can't count strong phenotype",1,camera issue
+184,accidently rebooted 16/01/2025 16:30. Incomplete dataset 297 images,1,general pi issue
+185,incomplete dataset - 314 images,1,video issue
+186,incomplete dataset - 1000 images; too few pupae,1,video issue
+187,"started late because of pi IP mismatch, not enough so added manually",1,general pi issue
+188,ssh connection fail,1,ssh issue
+189,only 5 images,1,video issue
+190,"incomplete dataset, 1 image",1,video issue
+191,"incomplete dataset, 360 images",1,video issue
+192,"manually added but data lost - not enough pupae. Incomplete dataset, 2 images",1,pupae rec missing
+193,"incomplete dataset, 6 images",1,video issue
+194,not enough pupae. Incomplete dataset - 55 images,1,video issue
+195,not enough pupae. Incomplete dataset - 9 images,1,video issue
+196,"ssh timeout, restart did not fix.",1,ssh issue
+197,SSH issue. Leave more eggs than expected - seems like not very viable,1,ssh issue
+198,"incomplete dataset, 5 images",1,video issue
+199,Leave more eggs than expected - seems like not very viable; not enough pupae; twisted wings in flies,1,not enough pupae
+200,pupae recs not found,1,pupae rec missing
+201,"camera issue, not resolved after killing video processes and rebooting",1,camera issue
+202,"not enough pupae but digging all round the vial, see RPi folder",1,not enough pupae
+203,"not enough pupae but flies stuck inside food, see RPi folder",1,not enough pupae
+204,"when removing vial at the end of the experiment, this vial had flies; not enough pupae - strange digging all round the edge of the vial, see RPi folder",1,not enough pupae
+205,"strong phenotype, struggling to fly and jumping rapidly",1,not enough pupae
+206,"potential typo on pupae counts, camera issue; not enough pupae",1,general pupae rec error
+207,"potential duplicate, typo on pupae recs, perhaps counts wrong",1,pupae rec duplicate
+208,memory allocation issue,1,general pi issue
+209,"not enough pupae, check RPi folder for video. Incomplete dataset only 874 images",1,not enough pupae
+210,can not find pupae count,1,pupae rec missing
+211,not use; cannot find pupae rec,1,pupae rec missing
+212,not enough pupae. Only 245 images,1,video issue
+213,potential typo on pupae recs - not enough pupae,1,not enough pupae
+214,not enough pupae; ssh issue,1,ssh issue
+215,larva climb considerably high!; note duplicate: pupae counts may not match. Incomplete dataset only 1369 imgaes,1,not enough pupae
+216,not enough pupae. Only 7 images,1,video issue
+217,"not enough pupae; all pupae already at time of removing vial, with no larvae whatsoever!",1,not enough pupae
+218,not enough pupae; when removing vial had 1 fly,1,not enough pupae
+219,"not enough pupae, cool digging pattern around - see RPi folder",1,not enough pupae
+220,pupae rec duplicate/ not enough pupae,1,not enough pupae
+221,not enough pupae; typo on pupae counts,1,not enough pupae
+222,"note duplicate, pupae counts might not match; when removing vial had 1 fly;",1,pupae rec duplicate
+223,check again if this worked. Only 2 images,1,video issue
+224,flies on their backs on the food?/ note pupae count dup and not enough pupae,1,not enough pupae
+225,rec error?,1,general pupae rec error
+226,ssh timeout/ Too many,1,ssh issue
+227,Too few,1,not enough pupae
+228,rec error?/ not enough pupae,1,general pupae rec error
+229,camera issue; too few,1,camera issue
+230,ssh timeout; too few,1,ssh issue
+231,only 10 images,1,video issue
+232,note duplicate: pupae counts may not match/ not enough pupae?,1,not enough pupae
+233,"ssh timeout, incomplete dataset - 4 images",1,ssh issue
+234,only 726 images,1,video issue
+235,"unsure what issue it is, rebooted pi",1,general pi issue
+236,ssh connection issue; not enough pupae,1,ssh issue
+237,"not enough pupae. Over 10 flies inside the food through the holes still alive, see folder RPi video",1,not enough pupae
+238,Leave more eggs than expected - seems like not very viable; no pupae. Only 9 images,1,video issue
+239,"not enough pupae, cool digging all round the vial - see RPi folder",1,not enough pupae
+240,ssh error,1,ssh issue
+241,camera issue. Only 1456 images,1,video issue
+242,"potentially not enough pupae; note duplicate, pupae counts might not match",1,pupae rec duplicate
+243,"data folder has 589 photos as of 09/02/2026 - check again before discarding, as the video process started on the PM for some reason and not 10am? Incomplete dataset, 590 images total",1,video issue
+244,not enough pupae; see RPi folder as pupae seem to have shrivelled!,1,not enough pupae
+245,"not enough pupae; white residue in food , see in RPi folder",1,not enough pupae
+246,"camera issue/vial issue - select second folder (it started at 11:45, not 15:11? unsure why the folder took so long to develop ). Incomplete dataset, 30 images.",1,camera issue
+247,"camera issue/vial issue - no data folder created (it started at 11:45, not 15:11? unsure why the folder took so long to develop );",1,camera issue
+248,note duplicate: pupae counts may not match,1,pupae rec duplicate
+249,camera issue; there was a fly in the vial at the end of the experiment; not enough pupae,1,camera issue
+250,"incomplete dataset, 480 images only",1,video issue
+251,remote host identification,1,connection issue
+252,memory issue; not enough pupae,1,general pi issue
+253,not enough pupae. Only 4 images,1,video issue
+254,note duplicate: pupae counts may not match/ not enough pupae,1,not enough pupae
+255,no data folder,1,video issue
+256,note duplicate: pupae counts may not match; not enough pupae,1,not enough pupae
+257,"camera issue, check folder. Only 9 images",1,camera issue
+258,"camera issue, no data folder",1,camera issue
+259,"says permission denied but folder is working, ssh into pi to see if folder working okay",1,general pi issue
+260,"not enough pupae; resolved IP address issue, check folder",1,not enough pupae
+261,ssh connection; not enough pupare,1,ssh issue

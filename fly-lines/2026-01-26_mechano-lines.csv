@@ -1,0 +1,53 @@
+﻿Position in expansion tray ,Position in stocks,Stock ,Neuron,SplitID,From where?,,,,,,
+T1A1,T26A5,SS00878,Nuria's list,604181,,No,A09e - projection neuron that ascends to the SEZ and recieves direct synpatic input from md III,Jovanic et al. 2019 (Marta),,,
+T1A2,T26A6,854,kenyon (OK107),854,A couple of papers ,,,,,,
+T1A3,T26A7,8769,RRID:BDSC_8769,,dendritic and chordotonal?,,,,,,
+T1A4,T26A8,26259,2-21-GAL4,26259,class I only ,,,,,,
+T1A5,T26A9,45873,Nuria's list,R39H05,45873,No,?,,,,
+T1A6,T26A10,48877,Nuria's list,R20B01-GAL4,48877,No,Basin-1,Jovanic et al. 2016 (Marta),,,
+T1A7,T26B1,49766,Nuria's list,R34A10,49766,No,,,,,
+T1A8,T26B2,49826,Nuria,R11A07,49826,No,,,,,
+T1A9,T26B3,49828,Nuria's list,R11F02-GAL4,49828,No,"Interneurons - A08c, A08s, A08e1, A08e2, A08e3",Heckscher et al. 2015,,,
+T1B1,T26B4,57618,v'td2 neurons,Gr28b.c-Gal4,57618,https://www.biorxiv.org/content/10.1101/2024.01.20.576342v1.full.pdf,,,,,
+T1B2,T26B5,73947,turtle-GAL4,73947 (potentially?),class III only ,,,,,,
+T1B3,T26B6,602023,R58F10-GAL4,602023,https://elifesciences.org/articles/04205#s4,ppk23 neuron subset that detects larval pheromones but does not express Gr33a or Gr66a. ,,,,,
+T1B4,T26B7,SS01632,Nuria's list,,602566,No,Thoracic ladder-1/T00a,Jovanic et al. 2019 (Marta),,,
+T1B5,T26B8,SS01401,Nuria's list,,602999,No,Drunken-4/A30a,Jovanic et al. 2019 (Marta),,,
+T1B6,T26B9,SS00721,Nuria's list,,603021,No,Recliner/T08v),Jovanic et al. 2019 (Marta),,,
+T1B7,T26B10,SS00674,Nuria's list,,603217,No,Drunken-1 and 2,Jovanic et al. 2016 (Marta),,,
+T1B8,T26C1,SS00739,Nuria's list,,603218,No,Basin-2,"Jovanic et al. 2016 (Marta)/Ohyama et al., 2015",,,
+T1B9,T26C2,SS00911,Nuria's list,,602572,No,Chair-1/A10a,Jovanic et al. 2019 (Marta),,,
+T1C1,T26C3,SS00886,Nuria's list,,603766,No,Jupiter (A08h2),Jovanic et al. 2019 (Marta),,,
+T1C2,T26C4,SS00740,Nuria's list,,604176,No,Basin-4,"Jovanic et al. 2016 (Marta)/Ohyama et al., 2015",,,
+T1C3,T26C5,SS00739,Nuria,,603218,No,Basin-2,"Jovanic et al. 2016 (Marta)/Ohyama et al., 2015",,,
+T1C4,T26C6,50377,Nuria: ,R48F09,50377,No,,,,,
+T1C5,T26C7,19-12-GAL4,Nuria's list,19-12-GAL4 (md III),,,MD III,Jovanic et al. 2019,,,
+T1C6,T7B9,SS04330,third order,9057998,14214039,CN,CN-63,MB2ON-86,MB2ON-86,S ; Convergence Sibling AB Left; DALcm12 L m ant lat 2_left,SS04330
+T1C7,T11B6,SS25755,third order,17276867,6611100,CN,CN-41,"CN-41, MB2ON-14","CN-41, MB2ON-14",H ; DALcm r v ant med_left,SS25755
+T1C8,T26C9,604183,Nuria's list,SS00888,604183,No,handle-b,Jovanic et al. 2016 (Marta),,,
+T1C9,T13A9,SS38042,third order,3044500,6317793,DN-SEZ,DNsez-1_stop,no official annotation,DPLc1 Descending,DPLc1 Descending L,SS38042
+T2A1,T6A3,SS04047,third order,1678567,6153877,DN-VNC,DNvnc-7_back,no official annotation,MB2ON-135,MB2ON-135,SS04047
+T2A2,T6A1,SS03731,third order,3979181,5794678,DN-VNC,DNvnc-1_ipsigoro,no official annotation,ipsigoro,ipsigoro left,SS03731
+T2A3,T11C4,SS25232,third order,5680013,17658978,DN-VNC,DNvnc-9,no official annotation,CPf descending 1,CPf descending 1 left,SS25232
+T2A4,T2B3,SS01645,third order,10553248,8496618,DN-VNC,DNvnc-2_turn,no official annotation,DNs-17,DNs-17_left,SS01645
+T2A5,T10C5,SS27197,third order,16667306,16520950,DN-VNC,DNvnc-3_turn,no official annotation,LAL output neuron 2,LAL output neuron 2 left,SS27197
+T2A6,T6A2,SS03767,third order,7582489,7977834,LHN,LHN-23,no official annotation,PDL005,PDL005 - 3rd-order Thermo AP (D CB)1 Left,SS03767
+T2A7,T15B2,SS53257,third order,17844900,18598859,LN,mAL 1,no official annotation,Giant-step,Giant-step left,SS53257
+T2A8,T9A7,SS04497,third order,9251793,4190567,MB-FBN,FBN-20,FBN-20,FBN-20,SJ: DALv23 L LAL dor pos 2_left,SS04497
+T2A9,T3C5,SS01943,third order,9527333,13210358,MB-FBN,FB2N-19,FB2N-19,FB2N-19,Headphone_left,SS01943
+T2B1,T4A10,SS01984,third order,16492104,10617840,MB-FFN,FFN-40,FFN-40,FFN-40,lowercase-h left,SS01984
+T2B2,T4A8,SS01978,third order,3886356,5966099,MBIN,DAN-d1,DAN-d1,DAN-d1,MBE4h left,SS01978
+T2B3,T5B8,MB196C,third order,7057894,6611894,MBIN,DAN-i1,DAN-i1,DAN-i1,MBE1c left,MB196C
+T2B4,T3A1,SS01732,third order,9503428,10343101,other,CM4-10,no official annotation,CM4 dor pos 10,CM4 dor pos 10 left,SS01732
+T2B5,T7A1,SS04230,first/second,16014701,16574328,PN-somato,somPN 2,mechano-Ch 2nd_order PN,BLP12 hook 6,BLP12 hook 6 left,SS04230
+T2B6,T17A1,SS55086,first/second,16950121,4849988,PN-somato,somPN 3,proprio 2nd_order PN,MB2ON-141,MB2ON-141,SS55086
+T2B7,T15A2,SS52506,first/second,21136945,17654638,PN-somato,somPN 4,mechano-Ch 2nd_order PN,MIXED bilateral,MIXED bilateral left,SS52506
+T2B8,T1C8,SS01378,third order,12299704,10768709,pre-DN-SEZ,pre-DNsez-1,no official annotation,Bilateral near MB,Bilateral near MB_left,SS01378
+T2B9,T14C1,SS42527,third order,15594113,15590555,pre-DN-SEZ,pre-DNsez-2,no official annotation,CE ; NI,CE ; NI_left,SS42527
+T2C1,T6A10,SS04068,third order,7700444,16910799,pre-DN-VNC,pre-DNvnc-1,MB2ON-59,MB2ON-59,BT ; CM13 med 5_left,SS04068
+T2C2,T3B2,SS01762,third order,9348984,2772093,pre-DN-VNC,pre-DNvnc-3,no official annotation,BLVa hook 1,BLVa hook 1 left,SS01762
+T2C3,T13A4,SS38410,third order,9428865,13674287,pre-DN-VNC,pre-DNvnc-4,no official annotation,AP ; BAla34 dor 2,AP ; BAla34 dor 2_left,SS38410
+T2C4,T10A8,SS21785,third order,10758204,2650887,pre-DN-VNC,pre-DNvnc-7,no official annotation,CA ; DPMpm1 1,CA ; DPMpm1 1_left,SS21785
+T2C5,T4B2,SS01989,third order,13849557,6143930,pre-DN-VNC,CSD,no official annotation,CSD,CSD left,SS01989
+T2C6,T15C6,SS52511,third order,14621584,17355864,pre-DN-VNC,pre-DNvnc-9,no official annotation,BAla34 bilateral 3,BAla34 bilateral 3 left,SS52511
+T2C7,T1B1,SS00918,Nuria's list,SS00918,603347,Yes,We have it in our stocks. Griddle-2,,,,
