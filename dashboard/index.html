@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Interactive sensory deprivation screen analysis">
+  <title>Sensory screen · Analysis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#overview" aria-label="Sensory screen home">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span><strong>Sensory screen</strong><small>Analysis workspace</small></span>
+      </a>
+
+      <nav aria-label="Dashboard sections">
+        <a class="nav-link active" href="#overview"><span>01</span>Overview</a>
+        <a class="nav-link" href="#explorer"><span>02</span>Explorer</a>
+        <a class="nav-link" href="#videos"><span>03</span>Video data</a>
+        <a class="nav-link" href="#quality"><span>04</span>Data quality</a>
+      </nav>
+
+      <div class="sidebar-note">
+        <span class="pulse"></span>
+        <p><strong>Analysis complete</strong><br>33 videos · 5 conditions</p>
+      </div>
+      <div class="sidebar-meta">Last dataset<br><strong>01 May 2026</strong></div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Sensory-deprivation screen / top-up study</p>
+          <h1>Experiment overview</h1>
+        </div>
+        <div class="top-actions">
+          <button class="icon-button" id="themeToggle" aria-label="Toggle dark mode" title="Toggle theme">◐</button>
+          <button class="export-button" id="exportButton"><span>↓</span> Export view</button>
+        </div>
+      </header>
+
+      <section id="overview" class="section hero-grid">
+        <article class="hero-card">
+          <div class="hero-copy">
+            <p class="eyebrow">Primary readout</p>
+            <h2>Three conditions show fewer holes than control.</h2>
+            <p>9047, 23129 and anosmic groups have significantly reduced counts after Holm correction. Hole size remains stable across all five conditions.</p>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="orb orb-one"></div><div class="orb orb-two"></div><div class="orb orb-three"></div>
+            <div class="fly">✣</div>
+          </div>
+        </article>
+        <article class="finding-card">
+          <div class="card-heading"><span>Key finding</span><span class="status-pill">p &lt; 0.001</span></div>
+          <div class="finding-number">−55</div>
+          <p>median holes per video</p>
+          <div class="comparison-row"><span>Anosmic</span><strong>11</strong><i></i><span>W1118</span><strong>66</strong></div>
+          <small>Mann–Whitney U · Holm-adjusted p = 0.0067</small>
+        </article>
+      </section>
+
+      <section class="section stat-grid" aria-label="Study summary">
+        <article><span class="stat-icon amber">▦</span><div><strong id="videoCount">33</strong><small>videos analysed</small></div><em>+5 excluded</em></article>
+        <article><span class="stat-icon blue">⌁</span><div><strong>5</strong><small>conditions</small></div><em>1 control</em></article>
+        <article><span class="stat-icon violet">◎</span><div><strong>3</strong><small>readouts</small></div><em>per video</em></article>
+        <article><span class="stat-icon green">✓</span><div><strong>5</strong><small>significant tests</small></div><em>of 12</em></article>
+      </section>
+
+      <section id="explorer" class="section panel explorer-panel">
+        <div class="panel-header">
+          <div><p class="eyebrow">Interactive explorer</p><h2>Response by condition</h2></div>
+          <div class="metric-switch" id="metricSwitch" role="group" aria-label="Metric">
+            <button class="active" data-metric="n_holes">Hole count</button>
+            <button data-metric="median_max_size">Hole size</button>
+            <button data-metric="median_lifetime">Lifetime</button>
+          </div>
+        </div>
+        <div class="explorer-layout">
+          <div>
+            <div class="chart-toolbar">
+              <div id="conditionFilters" class="filter-chips" aria-label="Condition filters"></div>
+              <div class="legend"><span class="control-dot"></span> W1118 control</div>
+            </div>
+            <div id="chart" class="chart" aria-live="polite"></div>
+            <p class="chart-caption">Each dot is one video. Bars show median and interquartile range.</p>
+          </div>
+          <aside class="insight-panel" id="insightPanel"></aside>
+        </div>
+      </section>
+
+      <section id="videos" class="section panel table-panel">
+        <div class="panel-header table-header">
+          <div><p class="eyebrow">Experimental units</p><h2>Video-level data</h2></div>
+          <label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Search video or condition…"></label>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr>
+              <th data-sort="condition">Condition <span>↕</span></th>
+              <th data-sort="video_file">Video <span>↕</span></th>
+              <th data-sort="n_holes">Holes <span>↕</span></th>
+              <th data-sort="median_max_size">Median size <span>↕</span></th>
+              <th data-sort="median_lifetime">Lifetime <span>↕</span></th>
+              <th>Recording</th>
+            </tr></thead>
+            <tbody id="videoTable"></tbody>
+          </table>
+        </div>
+        <div class="table-footer"><span id="rowCount">Showing 33 videos</span><span>Click a row to inspect details</span></div>
+      </section>
+
+      <section id="quality" class="section quality-grid">
+        <article class="panel quality-card">
+          <div class="card-heading"><div><p class="eyebrow">Data quality</p><h2>Excluded files</h2></div><span class="warning-pill">5 need review</span></div>
+          <div id="qualityList" class="quality-list"></div>
+        </article>
+        <article class="panel method-card">
+          <p class="eyebrow">Statistical method</p>
+          <h2>Video is the experimental unit.</h2>
+          <p>Global differences use Kruskal–Wallis tests. Pairwise comparisons against W1118 use two-sided Mann–Whitney U tests with Holm family-wise correction.</p>
+          <div class="method-tags"><span>Non-parametric</span><span>α = 0.05</span><span>Holm corrected</span></div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <dialog id="detailDialog">
+    <button class="dialog-close" aria-label="Close">×</button>
+    <p class="eyebrow">Video detail</p><h2 id="dialogTitle"></h2>
+    <div id="dialogBody" class="dialog-grid"></div>
+  </dialog>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>

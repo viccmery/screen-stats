@@ -1,0 +1,17 @@
+{
+    "split": {
+        "label": "Split-Gal4 inactivation screen",
+        "hpc_dir": "split",
+        "google_sheet_prefixes": ["split"],
+    },
+    "sensory": {
+        "label": "Sensory inactivation screen",
+        "hpc_dir": "sensory",
+        "google_sheet_prefixes": ["sensory"],
+    },
+    "mechano": {
+        "label": "Mechanosensory inactivation screen",
+        "hpc_dir": "mechano",
+        "google_sheet_prefixes": ["mechano"],
+    },
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "sheet_key": "2025-09-29_split-11_asd-11_sensory-26",
+    "date": "2025-09-29",
+    "spreadsheet_id": "16SmOZUOif1WM1XIff_2Hor3ve8eANdYZVRxT5jHDssA",
+    "screens": {
+      "split": {"screen_week": 11},
+      "sensory": {"screen_week": 26},
+      "asd": {"screen_week": 11}
+    }
+  },
+  {
+    "sheet_key": "split-2",
+    "date": null,
+    "spreadsheet_id": "1Hzy2fWYd8pfVttOinSPZz3fxgQEqxnuFleBu1nYrR_E",
+    "screens": {
+      "split": {"screen_week": 2}
+    }
+  }
+]
+WEEKLY_SHEETS = [
+    {
+        "date": "2026-04-06", 
+        "spreadsheet_id": "16SmOZUOif1WM1XIff_2Hor3ve8eANdYZVRxT5jHDssA",
+        "screens": {
+            "mechano": {"screen_week": 11}
+        },
+    },
+    {
+        "date": "2026-04-13", 
+        "spreadsheet_id": "14I4pzm_53WucH9Ksl4VBrA3iIsCVpxUbMpeZXkSNXUg", 
+        "screens": {
+            "sensory": {"screen_week": }, 
+            "mechano": {"screen_week": 11.1 }, 
+            "split": {"screen_week":}, 
+            "sensory_deprivation": {"screen_week": 1}
+        },
+    },
+    {
+        "date": "2026-03-23", 
+        "spreadsheet_id": "1rYKkQMq-Ixwl2RjK-aLJc0CjTr0NI3MrocryDxNPVM0", 
+        "screens": {
+            "sensory": {"screen_week": }, 
+            "split": {"screen_week": }, 
+            ""
+        }
+    }
+]
